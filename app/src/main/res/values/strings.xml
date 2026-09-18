@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PsiConnect</string>
+
+    <!-- Tela 1: Marketplace -->
+    <string name="marketplace_titulo">Encontrar Psicólogo</string>
+    <string name="marketplace_subtitulo">Escolha o profissional ideal pra você</string>
+
+    <!-- Menu de navegação fixo -->
+    <string name="nav_buscar">Buscar</string>
+    <string name="nav_agendamentos">Agendamentos</string>
+    <string name="nav_carteira">Carteira</string>
+    <string name="nav_perfil">Perfil</string>
+    <string name="nav_em_breve">Em breve</string>
+
+    <!-- Tela 2: Médico -->
+    <string name="medico_quem_sou_eu">Quem sou eu</string>
+    <string name="medico_descricao_padrao">Especialista com experiência ajudando pacientes a lidar com suas questões emocionais.</string>
+    <string name="medico_sessao_avulsa">Sessão avulsa · 50 min</string>
+    <string name="medico_btn_agendar">Agendar Consulta</string>
+
+    <!-- Tela 3: Agendamento -->
+    <string name="agendamento_titulo">Agendar Consulta</string>
+    <string name="agendamento_com">com %1$s</string>
+    <string name="agendamento_modo">Modo de atendimento</string>
+    <string name="agendamento_online">Online</string>
+    <string name="agendamento_presencial">Presencial</string>
+    <string name="agendamento_horario">Horário</string>
+    <string name="agendamento_nome_label">Nome completo</string>
+    <string name="agendamento_email_label">E-mail</string>
+    <string name="agendamento_telefone_label">Telefone / WhatsApp</string>
+    <string name="agendamento_motivo_label">Motivo (opcional)</string>
+    <string name="agendamento_btn_confirmar">Confirmar Agendamento</string>
+    <string name="agendamento_erro_campos">Preencha nome e e-mail para confirmar.</string>
+    <string name="agendamento_resumo_titulo">Agendamento confirmado</string>
+    <string name="agendamento_resumo_texto">Paciente: %1$s\nMédico(a): %2$s\nModo: %3$s\nHorário: %4$s</string>
+    <string name="ok">OK</string>
+
+    <!-- Horários fixos -->
+    <string-array name="horarios">
+        <item>09:00</item>
+        <item>10:00</item>
+        <item>11:00</item>
+        <item>14:00</item>
+        <item>15:00</item>
+        <item>16:00</item>
+    </string-array>
+</resources>
